@@ -4,7 +4,7 @@ This will be used to keep track of my observations and questions from the readin
 
 ## Code 301 - Intermediate Software Development
 
-'''code samples''' and thoughts on them will exist here as will anything else surounding the course
+'''code samples''' and thoughts on them will exist here as will anything else surrounding  the course
 
 - [x] Finish my creation of this page
 - [ ] begin reading material for this course
@@ -14,7 +14,7 @@ This will be used to keep track of my observations and questions from the readin
 
 > This will be a thing of the future
 
-## usful environment comand referances
+## useful environment command references
 | Command | Description |
 | --- | --- |
 | `pgstart` | start the postgresql server |
