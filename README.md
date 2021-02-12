@@ -15,6 +15,7 @@ This will be used to keep track of my observations and questions from the readin
 > This will be a thing of the future
 
 ## useful environment command references
+
 | Command | Description |
 | --- | --- |
 | `pgstart` | start the postgresql server |
