@@ -4,6 +4,8 @@ This will be used to keep track of my observations and questions from the readin
 
 ## Code 301 - Intermediate Software Development
 
+[301 day 0](301-0.md)
+
 [301 day 1](301-1.md)
 
 [301 day 2](301-2.md)
