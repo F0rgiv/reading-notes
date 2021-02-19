@@ -12,6 +12,8 @@ This will be used to keep track of my observations and questions from the readin
 
 [301 day 3](301-3.md)
 
+[301 day 3](301-04.md)
+
 '''code samples''' and thoughts on them will exist here as will anything else surrounding  the course
 
 - [x] Finish my creation of this page
