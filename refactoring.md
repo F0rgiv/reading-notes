@@ -7,7 +7,7 @@ from: https://dev.to/healeycodes/refactoring-javascript-for-performance-and-read
 like in many other things coding right the rist time is nececary as if you don't have time to do it right now you never will.
 Be sure to include comments in all your code to make it readable and easily understood.
 
-#Pure functions
+# Pure functions
 
 pure functions are:
 - detemanistic: given the same inputs will always return the same
