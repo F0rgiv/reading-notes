@@ -24,6 +24,8 @@ This will be used to keep track of my observations and questions from the readin
 
 [301 day 9](js-callstack.md)
 
+[301 day 10 | EJS](ejs.md)
+
 '''code samples''' and thoughts on them will exist here as will anything else surrounding  the course
 
 - [x] Finish my creation of this page
