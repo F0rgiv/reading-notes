@@ -28,7 +28,7 @@ This will be used to keep track of my observations and questions from the readin
 
 [301 day 11 | EJS-partials](ejs-partials.md)
 
-[301 day 11 | EJS-partials](form-data.md)
+[301 day 11 | Form Data](form-data.md)
 
 '''code samples''' and thoughts on them will exist here as will anything else surrounding  the course
 
