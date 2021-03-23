@@ -38,7 +38,8 @@ This will be used to keep track of my observations and questions from the readin
 
 ## Code 401 - Advanced Software Development : JAVA
 
-> This will be a thing of the future
+[Basics](Java-basics.md)
+[Arrays, Loops, Imports](java-arrrs-loops-imports.md)
 
 ## useful environment command references
 
