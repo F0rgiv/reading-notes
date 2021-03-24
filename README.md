@@ -30,16 +30,10 @@ This will be used to keep track of my observations and questions from the readin
 
 [301 day 11 | Form Data](form-data.md)
 
-'''code samples''' and thoughts on them will exist here as will anything else surrounding  the course
-
-- [x] Finish my creation of this page
-- [ ] begin reading material for this course
-- [ ] learns stuff and do good.
-
 ## Code 401 - Advanced Software Development : JAVA
 
-[Basics](Java-basics.md)
-[Arrays, Loops, Imports](java-arrrs-loops-imports.md)
+* day 01 [Basics](Java-basics.md)
+* day 02 [Arrays, Loops, Imports](java-arrrs-loops-imports.md)
 
 ## useful environment command references
 
