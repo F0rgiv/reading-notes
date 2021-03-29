@@ -35,6 +35,8 @@ This will be used to keep track of my observations and questions from the readin
 * day 01 [Basics](Java-basics.md)
 * day 02 [Arrays, Loops, Imports](java-arrrs-loops-imports.md)
 
+
+* day 06 [Inheritance & Interfaces](inheritance-interface.md)
 ## useful environment command references
 
 | Command | Description |
