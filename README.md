@@ -32,11 +32,11 @@ This will be used to keep track of my observations and questions from the readin
 
 ## Code 401 - Advanced Software Development : JAVA
 
-* day 01 [Basics](Java-basics.md)
-* day 02 [Arrays, Loops, Imports](java-arrrs-loops-imports.md)
+* [Basics](Java-basics.md)
+* [Arrays, Loops, Imports](java-arrrs-loops-imports.md)
+* [Inheritance & Interfaces](inheritance-interface.md)
+* [Java OOP](java-OOP.md)
 
-
-* day 06 [Inheritance & Interfaces](inheritance-interface.md)
 ## useful environment command references
 
 | Command | Description |
