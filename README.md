@@ -36,6 +36,7 @@ This will be used to keep track of my observations and questions from the readin
 * [Arrays, Loops, Imports](java-arrrs-loops-imports.md)
 * [Inheritance & Interfaces](inheritance-interface.md)
 * [Java OOP](java-OOP.md)
+* [Stacks and Queues](stacks-and-queues.md)
 
 ## useful environment command references
 
