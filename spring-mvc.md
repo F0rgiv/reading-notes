@@ -11,3 +11,10 @@ Home: https://spring.io/why-spring
 is a template engine that  makes dynamically inserting data into the html templates simple.
 
 Home: https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html
+
+# @RequestMapping
+
+RequestMapping is for mapping mapping web requests onto request-handling classes and methods.
+
+See https://www.baeldung.com/spring-requestmapping for a overview of how to use this and see: https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/RequestMapping.html for documentation on the expected parameters and their effects.
+

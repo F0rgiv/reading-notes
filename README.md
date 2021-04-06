@@ -37,7 +37,7 @@ This will be used to keep track of my observations and questions from the readin
 * [Inheritance & Interfaces](inheritance-interface.md)
 * [Java OOP](java-OOP.md)
 * [Stacks and Queues](stacks-and-queues.md)
-* [Spring MVC abd Thymeleaf](spring-mvc.md)
+* [Spring MVC and Thymeleaf](spring-mvc.md)
 
 ## useful environment command references
 
