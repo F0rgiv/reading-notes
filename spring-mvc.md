@@ -18,3 +18,14 @@ RequestMapping is for mapping mapping web requests onto request-handling classes
 
 See https://www.baeldung.com/spring-requestmapping for a overview of how to use this and see: https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/RequestMapping.html for documentation on the expected parameters and their effects.
 
+# JPA
+
+Spring Data JPA is NOT an ORM but creates Data Access Objects at compile that can the used to access the data with a tool such as an ORM.
+
+One of the largest advantages of this is that it will automatically create most of the logic used to save and retrieve information from the database. 
+
+https://spring.io/projects/spring-data-jpa
+>As a developer you write your repository interfaces, including custom finder methods, and Spring will provide the implementation automatically.
+
+getting started: https://spring.io/guides/gs/accessing-data-jpa/
+
