@@ -1,6 +1,6 @@
 # Tree
 
-A tree is a data structure that is non linier like a list but that uses nodes starting at a root then then point to more than one "next" node.
+A tree is a data structure that is non linier like a list but that uses nodes starting at a root then then point to more than one "next" node. This allows for them to solve an incredibly amount of problems that would become more expensive to solve. For example in a binary search tree you could easily find the kth smallest element.
 
 
 From: https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html
@@ -16,9 +16,8 @@ From: https://codefellows.github.io/common_curriculum/data_structures_and_algori
 ## K-ary Trees
 A K-ary Tree is one where each node has no more than K children off of it.
 
-## Bianry tree
+## Binary tree
+A Binary tree is a tree with each node having no more then two children.
 
-
-
-## Bianry Search tree
-
+## Binary Search tree
+A Binary search tree is a tree with contents organized into a specific way that enables faster searches within the tree.
