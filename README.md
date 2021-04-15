@@ -39,8 +39,9 @@ This will be used to keep track of my observations and questions from the readin
 * [Stacks and Queues](stacks-and-queues.md)
 * [Spring MVC and Thymeleaf](spring-mvc.md)
 * [trees](trees.md)
-* [Oauth](many-to-many.md)
-* [many-to-many](OAuth.md)
+* [Oauth](401/OAuth.md)
+* [many-to-many](401/many-to-many.md)
+* [web sockets](401/web-sockets.md)
 
 ## useful environment command references
 
