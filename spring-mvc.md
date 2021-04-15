@@ -31,3 +31,6 @@ getting started: https://spring.io/guides/gs/accessing-data-jpa/
 
 # Security
 
+setup cheatsheet: https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md
+
+Springs AuthenticationManager is a Spring container for auth providers allowing them to all have a universal interface. It's build in functions are normally however plenty to setup a basic website and ensure that it's able to handel most authentication scenarios.
