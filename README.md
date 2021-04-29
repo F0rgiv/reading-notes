@@ -42,7 +42,9 @@ This will be used to keep track of my observations and questions from the readin
 * [Oauth](401/OAuth.md)
 * [many-to-many](401/many-to-many.md)
 * [web sockets](401/web-sockets.md)
-
+* [Android Intents, Activities, and SharedPreferences](401/android-intents.md)
+* [Android dynamic lists with RecyclerView](401/android-Recycler.md)
+* [Android dynamic lists with RecyclerView](401/android-room.md)
 ## useful environment command references
 
 | Command | Description |
