@@ -1,0 +1,5 @@
+# Espresso
+
+Espresso is a testing suite for Android that enables developers to quickly and easily create integration and ui tests that confirm the functionality of the application and expected behavior.
+
+To record a test with Android studio you can simply click ```run > Record Espresso Test``` This will prompt you to select the device that you would like to run the test on and then after selection it will launch the application and a "Record your Test" Window will appear. You can see each action that you have take so far appear here as you navigate through your application. Throughout this process you can can add assertions include screen captures to confirm the application state at any point. Once you are done you can save the recording and a test with all of those actions and custom assertions will be created within your application.
