@@ -44,7 +44,8 @@ This will be used to keep track of my observations and questions from the readin
 * [web sockets](401/web-sockets.md)
 * [Android Intents, Activities, and SharedPreferences](401/android-intents.md)
 * [Android dynamic lists with RecyclerView](401/android-Recycler.md)
-* [Android dynamic lists with RecyclerView](401/android-room.md)
+* [Android room](401/android-room.md)
+* [Serverless and GraphQL](401/serverless-graph.md)
 ## useful environment command references
 
 | Command | Description |
