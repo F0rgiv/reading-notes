@@ -1,0 +1,2 @@
+# Android monetization
+Android applications can be monetized through several strategies. These include in app purchases such as subscriptions, additional content, functionality in app items etc. you can similarly sell physical items within your app. You can also collect revenue through selling your app for a flat free or though advertisements.

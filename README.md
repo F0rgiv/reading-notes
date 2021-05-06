@@ -46,6 +46,7 @@ This will be used to keep track of my observations and questions from the readin
 * [Android dynamic lists with RecyclerView](401/android-Recycler.md)
 * [Android room](401/android-room.md)
 * [Serverless and GraphQL](401/serverless-graph.md)
+* [Android Monetization](401/andoird-monetization.md)
 ## useful environment command references
 
 | Command | Description |
